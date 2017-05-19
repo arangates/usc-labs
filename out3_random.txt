@@ -1,19 +1,12 @@
 Randomly Selected String			Line Number
 
-There					1
-are					2
-10					3
-types					4
-of					5
-people					6
-in					7
-THE					8
 world:					9
-those					10
-who					11
+the					8
 understand					12
-binary,					13
-and					14
+those					10
+world:					9
 those					15
 who					16
-don't					17
+There					1
+people					6
+binary,					13
