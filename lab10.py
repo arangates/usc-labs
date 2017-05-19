@@ -28,4 +28,8 @@ with open('out2_the.txt', 'w') as o2:
 
 # write out3
 
-# DIY keerthana :p
+with open('out3_random.txt', 'w') as o3:
+    o3.write('Randomly Selected String\t\t\tLine Number\n\n')
+    for index, item in enumerate(out2):
+        print str(index + 1) + "\t\t\t" + str(item)
+        o3.write(str(item) + "\t\t\t\t\t" + str(index + 1) + '\n')
