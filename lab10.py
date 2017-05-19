@@ -1,4 +1,5 @@
-import re,random
+import re
+import random
 
 # Open a file
 f = open("in.txt")  # open in.txt

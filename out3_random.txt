@@ -1,12 +1,12 @@
 Randomly Selected String			Line Number
 
-world:					9
-the					8
-understand					12
-those					10
-world:					9
-those					15
-who					16
-There					1
-people					6
-binary,					13
+programmers					842
+the					308
+a					1189
+I					1578
+1.0					27
+>>					882
+I					747
+NASA					1635
+question					1404
+missing					568
