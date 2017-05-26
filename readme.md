@@ -1,5 +1,7 @@
 # References
 
+## Lab 10
+
 *Strings 
 https://developers.google.com/edu/python/strings
 
@@ -14,3 +16,5 @@ https://developers.google.com/edu/python/regular-expressions
 
 *Random module
 https://docs.python.org/2/library/random.html
+
+## Lab 3
