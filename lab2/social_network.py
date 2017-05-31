@@ -71,7 +71,7 @@ for i in lst:
 	if len(i)<l:
 		l=i
 	
-# print ("Task 2 output: ",lst[l])
+print ("Task 2 output: ",lst[l])
 
 with open('output.txt', 'a') as o1:
-    o1.write("\nTask 2 output: " + str(lst[l]))
+    o1.write("\nTask 2 output: " + str("-".join(str(x) for x in lst[l])))
