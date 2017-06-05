@@ -1,0 +1,23 @@
+1.	#txt When you’re working with Python, you don’t need to import a library in order to read and write files
+
+2.	It’s handled natively in the language, albeit in a unique manner
+
+3.	The first thing you’ll need to do is use Python’s built-in open function to get a file object
+
+4.	The open function opens a file
+
+5.	It’s simple
+
+6.	When you use the open function, it returns something called a file object
+
+7.	File objects contain methods and attributes that can be used to collect information about the file you opened
+
+8.	They can also be used to manipulate said file
+
+9.	For example, the mode attribute of a file object tells you which mode a file was opened in
+
+10.	And the name attribute tells you the name of the file that the file object has opened
+
+11.	You must understand that a file and file object are two wholly separate – yet related – things.
+
+Randomly Selected String				Line Number
