@@ -3,7 +3,11 @@
 ## Lab 2
 
 ## Lab 3
-
+ ### Linear Regression
+    *Straight Line (cartesian)
+        https://www.mathsisfun.com/equation_of_line.html
+    
+    *
 ## Lab 4
 
 ## Lab 10
