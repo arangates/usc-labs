@@ -6,7 +6,10 @@
  ### Linear Regression
     *Straight Line (cartesian)
         https://www.mathsisfun.com/equation_of_line.html
-    
+
+    *Linear regression
+    http://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html
+
     *
 ## Lab 4
 
