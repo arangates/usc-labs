@@ -12,7 +12,7 @@ def compute_cost(X, y, theta):
 
     predictions = X.dot(theta).flatten()
 
-    sqErrors = (predictions - y) ** 2
+    sqErrors = (predictions - y)**2
 
     J = (1.0 / (2 * m)) * sqErrors.sum()
     return J
@@ -55,7 +55,6 @@ ylabel('Profit in $10,000s')
 X = data[:, 0]
 y = data[:, 1]
 
-
 #number of training samples
 m = y.size
 
@@ -87,11 +86,9 @@ result = it.dot(theta).flatten()
 plot(data[:, 0], result)
 show()
 
-
 #Grid over which we will calculate J
 theta0_vals = linspace(-10, 10, 100)
 theta1_vals = linspace(-1, 4, 100)
-
 
 #initialize J_vals to a matrix of 0's
 J_vals = zeros(shape=(theta0_vals.size, theta1_vals.size))
