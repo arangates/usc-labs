@@ -1,0 +1,37 @@
+25/5:
+DNN weights- from each node- initialised to 0 initially
+every node (neuron) prop forward until ouput is 1
+max accuracy
+each neuron performs activation process
+n compute act time
+store weights inmem- as accuracy goes low weights are calc 
+h-schmidt.net - floatconverter
+sign exponent mantissa
+exp most weight as itc hanges the value of the weight drastically
+IEEE format? for floating pt.? NN accuracy is imp recog diff
+7 to 8 decimal points/bits accuracy- linked- length inc- big range- resolution drops
+32bit wide- adder n mult takes time - disadv-tradeoff
+NN classification makes it better (red or not red)
+same expo explained in verilog may not be that accurate
+use look up tables - pre store val for expo
+SOP module- area is constricted- use pipeline- make it a scalable neuron
+i/p can be from a FIFO
+2 i/p - x - prev nodes + y- weights
+n mult
+n-1 additions
+clocked n work on ack
+dawsonjon/fpu sysnthesizable iee 754 floating point library
+i/p has to be 32 bit ieee format
+exp, tanx -ve val, absx
+ (x/(1+abs(x)) addr,mult,sign always zero for abs value
+FIFOs n buffers can be used to make it scalable
+adds- passes threshold- passes to next neuron- strong val - stores it in the neuron- trains itself for next time
+goal- pipelined n faster- RCAdder atleast two staged- as many buffers,muxes on or off, product from mult adder waits stores in buffer
+80-100 clks for addition optimise it when sigmoid works when sop works.. tanh no need to divider- normalise it as its between -1 and 1
+one adder one multiplier for part a
+one adder one divider for part b 
+one computation max 300-400 clks
+
+convert radix into hex
+take output into text files
+

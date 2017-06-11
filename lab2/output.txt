@@ -1,0 +1,2 @@
+Task 1 output: ['C']
+Task 2 output: A-C-F
