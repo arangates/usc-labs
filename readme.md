@@ -3,7 +3,7 @@
 ## Lab 2
 
 ## Lab 3
- ### Linear Regression
+ ### Linear Regression (PART 1)
     *Equation of Straight Line (cartesian)
         https://www.mathsisfun.com/equation_of_line.html
     
@@ -38,6 +38,9 @@
     *Algorithms Intuition
         http://blog.hackerearth.com/3-types-gradient-descent-algorithms-small-large-data-sets
 
+### Logistic Regression(PART 2)
+
+    *
 
 
 ## Lab 4
