@@ -22,8 +22,8 @@ return 0;
 //     return 0;
 // }
 
-// unzip files from zip and deflate in the tmp directory
-int deflate(){
+// unzip files from zip and inflate in the tmp directory
+int inflate(){
     // const string syscmd = "unzip -n -j -d ./tmp " + training_data;
     system("unzip -n -j -d ./tmp training_data.zip && cd ./tmp && cat * > final.txt"); 
     // aggregate();
@@ -36,7 +36,7 @@ int main()
 {
     // printzipinfo(); // print zip information without deflating
 
-    deflate(); // unzip files from zip and deflate in the tmp directory
+    inflate(); // unzip files from zip and inflate in the tmp directory
     
     // system("rm -v !(\"final.txt\")"); // remove residuals after aggregation
 
