@@ -45,6 +45,11 @@
 
 ## Lab 4
 
+## Lab 6
+*Brent Bursley's reversi game:
+http://webpages.charter.net/erburley/Reversi.html
+http://webpages.charter.net/erburley/Reversi-index.html
+
 ## Lab 10
 
 *Strings 
